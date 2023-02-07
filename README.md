@@ -6,4 +6,4 @@ This project was created by:
 - Naimisha Churi 
 - Zahra Saghaie Dehkordi
 
-The goal of this project is to create a 4x4 3D Tic-Tac-Toe using python and a simple user interface. 
+The goal of this project is to create a 4x4 3D Tic-Tac-Toe using python for the logic and Tkinter for a simple user interface. 
